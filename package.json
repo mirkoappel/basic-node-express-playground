@@ -1,6 +1,6 @@
 {
-    "name": "HTML Import",
-    "description": "How to use HTML modules",
+    "name": "basic-node-express-playground",
+    "description": "Basic Node Express Playground",
     "authors": "Mirko Appel",
     "version": "0.0.1",
     "main": "pathToMain",
